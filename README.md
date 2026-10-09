@@ -1,3 +1,18 @@
+# UniBot - University Virtual Assistant 🎓
+*(Scroll down for the detailed Romanian documentation)*
+
+**UniBot** is an educational NLP-based chatbot built for the Faculty of Computer Science (UVT). It is designed to answer natural language queries (in Romanian) regarding courses, credits, professors, schedules, and general academic rules.
+
+### 🚀 Tech Stack & Key Features
+- **Backend & API:** Python, Flask
+- **Data & Databases:** SQLite, Data Extraction from Excel (ETL)
+- **Machine Learning / NLP:** Hugging Face Transformers (`deepset/xlm-roberta-base-squad2`), PyTorch
+- **Architecture:** Retriever-Reader paradigm designed to eliminate AI hallucinations by prioritizing structured database queries.
+- **Quality Assurance:** 59 automated test suites.
+
+---
+
+
 # UniBot — Asistent virtual pentru Facultatea de Informatică (UVT)
 
 UniBot este un chatbot educațional bazat pe procesarea limbajului natural, care răspunde în
