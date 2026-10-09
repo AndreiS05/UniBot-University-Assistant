@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 70" width="200" height="70" font-family="'Space Grotesk','Segoe UI',sans-serif">
+  <rect x="8" y="22" width="46" height="34" rx="11" fill="#1C6DD0"/>
+  <path d="M20 54 L15 66 L30 54 Z" fill="#1C6DD0"/>
+  <circle cx="22" cy="39" r="3.2" fill="#ffffff"/>
+  <circle cx="31" cy="39" r="3.2" fill="#ffffff"/>
+  <circle cx="40" cy="39" r="3.2" fill="#ffffff"/>
+  <polygon points="31,6 52,16 31,26 10,16" fill="#0F2A4A"/>
+  <text x="66" y="41" font-size="26" font-weight="700" fill="#0F2A4A">Uni</text>
+  <text x="108" y="41" font-size="26" font-weight="700" fill="#1C6DD0">Bot</text>
+</svg>

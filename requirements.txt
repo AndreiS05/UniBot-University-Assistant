@@ -1,0 +1,12 @@
+# UniBot - dependinte proiect de licenta
+# Instalare:  pip install -r requirements.txt
+# Testat pe Python 3.14 (Windows), CPU.
+
+Flask==3.1.2
+transformers==5.8.0
+torch==2.11.0
+numpy==2.4.4
+openpyxl==3.1.5   # folosit de setup_db.py pentru a citi UniBot_Date_UVT.xlsx
+
+# Model AI folosit (descarcat automat de transformers la prima rulare):
+#   deepset/xlm-roberta-base-squad2  (~1.1 GB)
